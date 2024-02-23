@@ -1,22 +1,21 @@
-# DodgeMaster
+# DodgeMaster - Master the Art of Dodging!
 
+## Description
+DodgeMaster is a thrilling 2D game where players must skillfully navigate a character to avoid incoming obstacles. With its fast-paced gameplay and increasing complexity, DodgeMaster provides an exciting challenge suitable for players of all skill levels. How long can you survive in this adrenaline-pumping test of reflexes?
 
+## Language Used
+Python
 
-Title: DodgeMaster - Master the Art of Dodging!
+## Complexity
+Beginner to Intermediate
 
-Description:
-DodgeMaster is a fast-paced 2D game where players must navigate a character to avoid incoming obstacles. With increasing speed and complexity, DodgeMaster offers a thrilling challenge for players of all skill levels. How long can you survive?
+## How to Run
+1. Ensure Python is installed on your system.
+2. Install the Pygame library by running the following command in your terminal or command prompt:
+3. Download the "simple_2d_game.py" file from the repository.
+4. Navigate to the directory containing the "simple_2d_game.py" file using your terminal or command prompt.
+5. Run the game by executing the following command:
+3. Download the "simple_2d_game.py" file from the repository.
+4. Navigate to the directory containing the "simple_2d_game.py" file using your terminal or command prompt.
+5. Run the game by executing the following command:
 
-Language Used: Python
-
-Complexity: Beginner to Intermediate
-
-How to Run:
-
-Ensure you have Python installed on your system.
-Install Pygame library using pip install pygame.
-Download the "simple_2d_game.py" file from the repository.
-Open a terminal or command prompt and navigate to the directory containing the "simple_2d_game.py" file.
-Run the game by executing the command python simple_2d_game.py.
-Use the left and right arrow keys to control the player character and avoid the falling obstacles.
-Survive as long as possible to achieve the highest score!
