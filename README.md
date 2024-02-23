@@ -12,10 +12,13 @@ Beginner to Intermediate
 ## How to Run
 1. Ensure Python is installed on your system.
 2. Install the Pygame library by running the following command in your terminal or command prompt:
+   
+## pip install pygame
 3. Download the "simple_2d_game.py" file from the repository.
 4. Navigate to the directory containing the "simple_2d_game.py" file using your terminal or command prompt.
 5. Run the game by executing the following command:
-3. Download the "simple_2d_game.py" file from the repository.
-4. Navigate to the directory containing the "simple_2d_game.py" file using your terminal or command prompt.
-5. Run the game by executing the following command:
+
+## python simple_2d_game.py
+6. Control the player character using the left and right arrow keys to dodge the falling obstacles.
+7. Aim to survive as long as possible and achieve the highest score!
 
